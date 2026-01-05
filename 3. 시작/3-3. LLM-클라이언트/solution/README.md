@@ -20,6 +20,7 @@ venv\Scrips\activate
 pip install "mcp[cli]"
 pip install openai
 pip install azure-ai-inference
+pip install azure-core
 ```
 
 ## -3- 샘플 실행하기
